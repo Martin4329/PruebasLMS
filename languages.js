@@ -1,0 +1,1 @@
+window.languages = {"mainLanguage":"ES","supportedLanguages":["ES"]};
